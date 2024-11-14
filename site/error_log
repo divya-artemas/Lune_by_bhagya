@@ -1,0 +1,8 @@
+[24-Oct-2024 13:46:43 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/bi1g8m9kne3q/public_html/mwduat.com/lbb/site/wp-content/themes/luna/template-home.php on line 207
+[25-Oct-2024 08:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shorcode() in /home/bi1g8m9kne3q/public_html/mwduat.com/lbb/site/wp-content/themes/luna/template-stylingcontact.php:16
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/lbb/site/wp-includes/template-loader.php(106): include()
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/lbb/site/wp-blog-header.php(19): require_once('/home/bi1g8m9kn...')
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/lbb/site/index.php(17): require('/home/bi1g8m9kn...')
+#3 {main}
+  thrown in /home/bi1g8m9kne3q/public_html/mwduat.com/lbb/site/wp-content/themes/luna/template-stylingcontact.php on line 16
